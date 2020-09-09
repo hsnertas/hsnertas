@@ -14,4 +14,9 @@ Hello, my name is Hasan.Motivated, fast learner who dedicated individual with va
 - 📝 [Resume](https://drive.google.com/file/d/1aNsX8G9cUhRyzc1oxvQlZkyvc66Q1wBV/view)
 - ⚡ Fun fact:🤔🤔🤔🤔 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnertas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnertas&show_icons=true&theme=gotham" alt="hsnertas" />
+
+</details>
