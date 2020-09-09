@@ -8,6 +8,7 @@
 - 📫 How to reach me: hsnertas@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1aNsX8G9cUhRyzc1oxvQlZkyvc66Q1wBV/view)
 - 📝 <a href="https://drive.google.com/file/d/1aNsX8G9cUhRyzc1oxvQlZkyvc66Q1wBV/view" target="_blank">Resume</a>
+- 📝 [Resume](https://drive.google.com/file/d/1aNsX8G9cUhRyzc1oxvQlZkyvc66Q1wBV/view){:target="_blank"}
 
 - ⚡ Fun fact:🤔🤔🤔🤔 
 
