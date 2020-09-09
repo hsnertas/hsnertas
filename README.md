@@ -14,6 +14,7 @@ Hello, my name is Hasan.Motivated, fast learner who dedicated individual with va
 - 📝 [Resume](https://drive.google.com/file/d/1aNsX8G9cUhRyzc1oxvQlZkyvc66Q1wBV/view)
 - ⚡ Fun fact:🤔🤔🤔🤔 
 
+<details>
 
 <summary>📈 My GitHub Stats</summary>
 
