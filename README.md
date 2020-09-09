@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool😄
 - 🌱 I’m currently learning Python
-- 💬 Ask me about anything, i am happy to help
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: hsnertas@gmail.com
 - 📝 Resume
 - ⚡ Fun fact:🤔🤔🤔🤔 
