@@ -11,7 +11,7 @@ Hello, my name is Hasan.Motivated, fast learner who dedicated individual with va
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: hsnertas@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1aNsX8G9cUhRyzc1oxvQlZkyvc66Q1wBV/view)
+- 📝 [Resume](https://docs.google.com/document/d/1GPxtKpkNCPhKEbuCaihdOBoTPnu0RRIc-tqVfkPgduk/edit?usp=sharing)
 - ⚡ Fun fact:🤔🤔🤔🤔 
 
 <details>
