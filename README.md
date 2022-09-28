@@ -8,7 +8,7 @@ Hello, my name is Hasan.Motivated, fast learner who dedicated individual with va
  **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on something cool😄
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: hsnertas@gmail.com
 - 📝 [Resume](https://docs.google.com/document/d/1GPxtKpkNCPhKEbuCaihdOBoTPnu0RRIc-tqVfkPgduk/edit?usp=sharing)
