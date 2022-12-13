@@ -13,10 +13,3 @@ Hello, my name is Hasan.Motivated, fast learner who dedicated individual with va
 - 📫 How to reach me: hsnertas@gmail.com
 - ⚡ Fun fact:🤔🤔🤔🤔 
 
-<details>
-
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hsnertas&show_icons=true&theme=gotham" alt="hsnertas" />
-
-</details>
